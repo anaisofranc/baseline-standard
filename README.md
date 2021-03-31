@@ -19,7 +19,7 @@ The Baseline protocol specifications are currently work in progress.
 
 ## Specifications
 
-There are currently three specifications in development:
+There are currently two specifications in development:
 
 OASIS Spec 1 - The Baseline CORE Specifications document: The document describes the minimal set of business and technical prerequisites, functional and non-functional requirements, together with a reference architecture that when implemented ensures that two or more systems of record can synchronize their system state over a permissionless public Distributed Ledger Technology (DLT) network.
 
